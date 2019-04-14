@@ -1,0 +1,75 @@
+{
+    "players":
+        [
+          {
+            "id": 1,
+            "name": "Babe Ruth",
+            "imgFile": "baberuth.jpg",
+            "nickname": "The Bambino",
+            "description": "George Herman \"Babe\" Ruth Jr. (February 6, 1895 – August 16, 1948) was an American professional baseball player whose career in Major League Baseball (MLB) spanned 22 seasons, from 1914 through 1935. Nicknamed \"The Bambino\" and \"The Sultan of Swat\", he began his MLB career as a stellar left-handed pitcher for the Boston Red Sox, but achieved his greatest fame as a slugging outfielder for the New York Yankees. Ruth established many MLB batting (and some pitching) records, including career home runs (714), runs batted in (RBIs) (2,213), bases on balls (2,062), slugging percentage (.690), and on-base plus slugging (OPS) (1.164); the latter still stands as of 2019.[1] Ruth is regarded as one of the greatest sports heroes in American culture and is considered by many to be the greatest baseball player of all time. In 1936, Ruth was elected into the Baseball Hall of Fame as one of its \"first five\" inaugural members."
+          },
+          {
+            "id": 2,
+            "name": "Cy Young",
+            "imgFile": "cyyoung.jpg",
+            "nickname": "The Cyclone",
+            "description": "Denton True \"Cy\" Young (March 29, 1867 – November 4, 1955) was an American Major League Baseball pitcher. During his 22-season baseball career (1890–1911), he pitched for five different teams. Young established numerous pitching records, some of which have stood for over a century. Young compiled 511 wins, which is most in Major League history and 94 ahead of Walter Johnson, second on the list.[1] Young was elected to the National Baseball Hall of Fame in 1937. One year after Young's death, the Cy Young Award was created to honor each previous season's best pitcher."
+          },
+          {
+            "id": 3,
+            "name": "Frank Robinson",
+            "imgFile": "frankrobinson.jpg",
+            "nickname": "Robby",
+            "description": "Frank Robinson (August 31, 1935 – February 7, 2019) was an American outfielder and manager in Major League Baseball who played for five teams from 1956 to 1976. The only player to be named Most Valuable Player (MVP) of both the National League (NL) and the American League (AL), he was named the NL MVP after leading the Cincinnati Reds to the pennant in 1961 and was named the AL MVP in 1966 with the Baltimore Orioles after winning the Triple Crown; his 49 home runs that year tied for the most by any AL player between 1962 and 1989, and stood as a franchise record for 30 years. Robinson helped lead the Orioles to the first two World Series titles in franchise history in 1966 and 1970, and was named the Series MVP in 1966 after leading the Orioles to a four-game sweep of the Los Angeles Dodgers. In 1975, he became the first black manager in major league history."
+          },
+          {
+            "id": 4,
+            "name": "Hank Aaron",
+            "imgFile": "hankaaron.jpg",
+            "nickname": "Hammering Hank Aaron",
+            "description": "Henry Louis Aaron (born February 5, 1934), nicknamed \"Hammer\" or \"Hammerin' Hank\", is a retired American Major League Baseball (MLB) right fielder who serves as the senior vice president of the Atlanta Braves. He played 21 seasons for the Milwaukee/Atlanta Braves in the National League (NL) and two seasons for the Milwaukee Brewers in the American League (AL), from 1954 through 1976. Aaron held the MLB record for career home runs for 33 years, and he still holds several MLB offensive records. He hit 24 or more home runs every year from 1955 through 1973, and is one of only two players to hit 30 or more home runs in a season at least fifteen times.[1] In 1999, The Sporting News ranked Aaron fifth on its \"100 Greatest Baseball Players\" list."
+          },
+          {
+            "id": 5,
+            "name": "Jackie Robinson",
+            "imgFile": "jackierobinson.jpg",
+            "nickname": "J Rob",
+            "description": "Jack Roosevelt Robinson (January 31, 1919 – October 24, 1972) was an American professional baseball player who became the first African American to play in Major League Baseball (MLB) in the modern era.[2] Robinson broke the baseball color line when the Brooklyn Dodgers started him at first base on April 15, 1947.[3] When the Dodgers signed Robinson, they heralded the end of racial segregation in professional baseball that had relegated black players to the Negro leagues since the 1880s.[4] Robinson was inducted into the Baseball Hall of Fame in 1962.[5]"
+          },
+          {
+            "id": 6,
+            "name": "Joe Dimaggio",
+            "imgFile": "joedimaggio.jpg",
+            "nickname": "Joltin Joe",
+            "description": "Joseph Paul DiMaggio[a] (November 25, 1914 – March 8, 1999), nicknamed \"Joltin' Joe\" and \"The Yankee Clipper\", was an American baseball center fielder who played his entire 13-year career in Major League Baseball for the New York Yankees. Born to Italian immigrants in California, he is widely considered one of the greatest baseball players of all time, and is perhaps best known for his 56-game hitting streak (May 15 – July 16, 1941), a record that still stands.[1]"
+          },
+          {
+            "id": 7,
+            "name": "Lou Gehrig",
+            "imgFile": "lougehrig.jpg",
+            "nickname": "The Iron Horse",
+            "description": "Henry Louis Gehrig (born Heinrich Ludwig Gehrig;[1] June 19, 1903 – June 2, 1941), nicknamed \"the Iron Horse\", was an American baseball first baseman who played his entire professional career (17 seasons) in Major League Baseball (MLB) for the New York Yankees, from 1923 until 1939. Gehrig was renowned for his prowess as a hitter and for his durability, which earned him his nickname \"the Iron Horse.\" He was an All-Star seven consecutive times,[2] a Triple Crown winner once,[3] an American League (AL) Most Valuable Player twice,[3] and a member of six World Series champion teams. He had a career .340 batting average, .632 slugging average, and a .447 on base average. He hit 493 home runs and had 1,995 runs batted in (RBI). In 1939, he was elected to the Baseball Hall of Fame[4] and was the first MLB player to have his uniform number (4) retired by a team."
+          },
+          {
+            "id": 8,
+            "name": "Mickey Mantle",
+            "imgFile": "mickeymantle.jpg",
+            "nickname": "The Mick",
+            "description": "Mickey Charles Mantle (October 20, 1931 – August 13, 1995), nicknamed The Commerce Comet and The Mick,[1] was an American professional baseball player. Mantle played his entire Major League Baseball (MLB) career (1951-1968) with the New York Yankees as a center fielder and first baseman. Mantle was one of the best players and sluggers and is regarded by many as the greatest switch hitter in baseball history.[2] Mantle was inducted into the National Baseball Hall of Fame in 1974[3] and was elected to the Major League Baseball All-Century Team in 1999."
+          },
+          {
+            "id": 9,
+            "name": "Ted Williams",
+            "imgFile": "tedwilliams.png",
+            "nickname": "The Greatest Hitter Who Ever Lived",
+            "description": "Theodore Samuel Williams (August 30, 1918 – July 5, 2002) was an American professional baseball player and manager. He played his entire 19-year Major League Baseball (MLB) career as a left fielder for the Boston Red Sox from 1939 to 1960; his career was interrupted only by mandatory military service during World War II and the Korean War. Nicknamed \"The Kid,\" \"The Splendid Splinter,\" \"Teddy Ballgame,\" and \"The Thumper,\" Williams is regarded as one of the greatest players in baseball history. Williams was a nineteen-time All-Star,[1] a two-time recipient of the American League (AL) Most Valuable Player Award, a six-time AL batting champion, and a two-time Triple Crown winner. He finished his playing career with a .344 batting average, 521 home runs, and a .482 on-base percentage, the highest of all time. His career batting average is the highest of any MLB player whose career was played primarily in the live-ball era, and ranks tied for 7th all-time (with Billy Hamilton)."
+          },
+          {
+            "id": 10,
+            "name": "Ty Cobb",
+            "imgFile": "tycobb.jpg",
+            "nickname": "The Georgia Peach",
+            "description": "Tyrus Raymond Cobb (December 18, 1886[1] – July 17, 1961), nicknamed The Georgia Peach, was an American Major League Baseball (MLB) outfielder. He was born in rural Narrows, Georgia. Cobb spent 22 seasons with the Detroit Tigers, the last six as the team's player-manager, and finished his career with the Philadelphia Athletics. In 1936 Cobb received the most votes of any player on the inaugural Baseball Hall of Fame ballot, receiving 222 out of a possible 226 votes (98.2%); no other player received a higher percentage of votes until Tom Seaver in 1992. In 1999, editors at the Sporting News ranked Ty Cobb third on their list of \"Baseball's 100 Greatest Players\".[2]"
+          }
+        ]
+}
